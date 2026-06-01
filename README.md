@@ -9,7 +9,7 @@ ____  _ ____
 
 # Dify
 
-> flowise ai, flowise tutorial, open source ai platform.
+> flowise ai, flowise tutorial, open source ai platform. for Windows
 
 **dify** | **flowise** | **ai-platform** | **llm-app** | **open-source** | **ai-workflow**
 
@@ -19,9 +19,9 @@ ____  _ ____
 
 - flowise ai, flowise tutorial, open source ai platform.
 - Full build: dify setup, flowise tutorial, dify tutorial, open source ai platform, dify vs flowise.
-- Platform: Windows macOS
+- Platform: Windows 10/11 x64
 
-**Platform:** Windows macOS
+**Platform:** Windows 10/11 x64
 
 ---
 
